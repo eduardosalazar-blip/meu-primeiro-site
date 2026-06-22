@@ -9,4 +9,6 @@ header{
 main{
 background-color: red;
 color: black;
+max-width: 800px;
+margin:o auto;
 }
