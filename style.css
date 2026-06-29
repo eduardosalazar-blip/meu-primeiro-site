@@ -16,6 +16,7 @@ margin:o auto;
 padding: 16px;
 }
 
-img
- width: 3000px;
- height:200px
+img{
+width: 3000px;
+ height:200px;
+} 
